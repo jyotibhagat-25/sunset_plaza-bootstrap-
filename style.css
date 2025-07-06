@@ -11,7 +11,7 @@ body{
     list-style: none;
     margin:0;
     padding:20px 0;
-    float:left;
+    
 }
 
 .toparea ul li a:link,#titlearea ul li a:visited{
@@ -23,6 +23,57 @@ body{
 	
 	}
 .reception{
-    background: ;
+    background:white ;
 }
+.reception img{
+    width:100%;
+}
+.reception button{
+    text-decoration:none;
+    padding: 10px;
+    margin:10px;
+    text-align:right;
+    
+}
+.reception button:hover{
+    background:#693732;
+    text-decoration:underline;
+    color:white;
+    text-align: center;
 
+}
+.boxarea{
+    width:100%;
+}
+.boxarea img{
+    width:100%;
+}
+.dining img{
+    width:100%;
+}
+.dining button{
+    padding:10px;
+    margin:10px;
+}
+.dining button:hover{
+    background:#693732;
+    text-decoration:underline;
+    color:white;
+    text-align: center;
+}
+.darea img{
+    width:100%;
+}
+.sparea img{
+    width:100%;
+}
+.sparea button{
+    padding: 10px;
+    margin: 10px;
+}
+.sparea button:hover{
+    background:#693732;
+    text-decoration:underline;
+    color:white;
+    text-align: center;
+}
