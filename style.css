@@ -1,0 +1,28 @@
+body{
+    background: pink;
+    margin:0;
+    padding:0;
+}
+.toparea{
+    background:white;
+    padding:10px 0;
+}
+.toparea ul li{
+    list-style: none;
+    margin:0;
+    padding:20px 0;
+    float:left;
+}
+
+.toparea ul li a:link,#titlearea ul li a:visited{
+    color:black;
+	text-decoration:none;
+	background:white;
+	padding:10px 25px;
+	display:block;
+	
+	}
+.reception{
+    background: ;
+}
+
